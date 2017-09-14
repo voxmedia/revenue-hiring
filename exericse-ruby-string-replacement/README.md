@@ -57,10 +57,10 @@ db.has_word?(<string>)
 db.get_links_for_word(<string>)
 ```
 
-Being the leader of your overly-staffed engineering team, you ask one of your teammates to build a test suite (using Ruby's [Test::Unit](https://ruby-doc.org/stdlib-2.1.5/libdoc/test/unit/rdoc/Test/Unit/Assertions.html)) for this library. And to your surprise they stayed up all night coding and returned groggily with a [complete test suite!](https://gist.github.com/banderson623/9e26950101acb93648e10299edd13b10)
+Being the leader of your overly-staffed engineering team, you ask one of your teammates to build a test suite (using Ruby's [Test::Unit](https://ruby-doc.org/stdlib-2.1.5/libdoc/test/unit/rdoc/Test/Unit/Assertions.html)) for this library. And they came back with a nearly complete [complete test suite!](https://gist.github.com/banderson623/9e26950101acb93648e10299edd13b10)
 
 This is fantastic! _(You make a note to promote that test-loving engineer.)_ So it look's like you'll need to:
 
-* Implementation the `Swirl` library, in such a way that it passes the unit test.
+* Implement the `Swirl` library, in such a way that it passes the unit test.
 * [Download]((https://gist.github.com/banderson623/9e26950101acb93648e10299edd13b10)) and use the unit test library
 * Add that missing test, the one your tired superstar teammate left unimplemented.
