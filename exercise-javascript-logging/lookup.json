@@ -1,0 +1,17 @@
+{
+  "words": [
+    "cheese", "kale", "banana", "powder", "chocolate",
+    "pork", "strawberry", "mystery-meat", "chili",
+    "cherry", "cherries", "bananas", "strawberries",
+    "jalapeno", "jalapenos", "bike", "treadmill", "wipes",
+    "bag", "tote", "goop", "tomato", "sugar", "milk",
+    "peach", "coffee", "glass", "shaker","massage",
+    "diaper", "mop", "spinach"
+  ],
+  "partners": [
+    "https://gooptown.com/stuff.php?word=",
+    "https://thebigstore.com/clearance/",
+    "https://susanscornermart.com/fresh/",
+    "https://targot.com/must-move/"
+  ]
+}
