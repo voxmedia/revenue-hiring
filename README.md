@@ -35,9 +35,6 @@ Additionally, pretend we work together:
 
 During the technical call be prepared to share your screen with us in a readable (sufficiently large) font size.
 
-Optionally, you can send us your submissions via email ([brian.anderson@voxmedia.com](mailto://brian.anderson@voxmedia.com)).
-
-
 # The Exercises
 
 * A [Javascript logging](https://github.com/voxmedia/revenue-hiring/tree/master/exercise-javascript-logging) code exercise for logging, filtering and reporting on events.
