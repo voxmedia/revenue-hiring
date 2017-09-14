@@ -44,7 +44,7 @@ During the technical call be prepared to share your screen with us in a readable
 
 # FAQ About Exercises
 
-* **Can I use jQuery, React, Underscore, or other external libraries?** – If you feel more comfortable using familiar libraries feel free to do so, but you are not required to.
+* **Can I use jQuery, React, Underscore, or other external libraries?** – You are free to use any tools, libraries, and frameworks you feel comfortable using.
 
 * **Who wrote this? I have so many questions** – Please send all questions to [brian.anderson@voxmedia.com](mailto://brian.anderson@voxmedia.com) and we'll try to answer them as quickly as possible.
 
