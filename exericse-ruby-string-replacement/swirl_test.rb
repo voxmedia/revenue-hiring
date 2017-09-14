@@ -1,5 +1,5 @@
 # Hey boss, make sure you include your Swirl library
-# Any that nice CashWords library too
+# ... And that nice CashWords library too
 # require File.join(File.dirname(__FILE__),"swirl")
 # require File.join(File.dirname(__FILE__),"cash_words")
 require "test/unit"
@@ -87,9 +87,9 @@ class TestSwirl < Test::Unit::TestCase
 
   # Hey boss, I got stuck here, I'd really like to add a few tests
   # to make sure we aren't mangling any of the HTML, but I wasn't sure
-  # how to do that ... also I am falling asleep
+  # how to do that...
   def test_wont_mangle_the_html
-    assert false, "I was too tired to write this, please help me."
+    assert false, "I need help, can you finish this?"
   end
 end
 

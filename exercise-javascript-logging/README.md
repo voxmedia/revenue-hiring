@@ -1,6 +1,7 @@
 # Javascript Logging Exercise
 
-During the big rewrite of the Artisanal Mayonnaise website, [tastymayo.yum](http://tastymayo.yum), you realize there are many different front end components. Tracking their state via `console.log()` is proving to be a hot mess of thousands of debug logs being emitted in the console on every page reload.  There has got to be a better way to log all of these states without littering the console.
+During the big rewrite of the Artisanal Mayonnaise website, [tastymayo.yum](http://tastymayo.yum), you realize there are many different front end components. Tracking their state via `console.log()` is proving to be a large mess of thousands of debug logs being emitted in the console on every page reload. There has to be a better way to log all of these states without littering the console.
+
 
 You devise a plan. And decide to create a small library to record these logs without printing them to the console.
 
