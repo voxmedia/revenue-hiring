@@ -40,8 +40,8 @@ Optionally, you can send us your submissions via email ([brian.anderson@voxmedia
 
 # The Exercises
 
-* A [Javascript logging](https://github.com/voxmedia/revenue-hiring/tree/exercise-javascript-logging) code exercise for logging, filtering and reporting on events.
-* A [Ruby string manipulation library](https://github.com/voxmedia/moving-to-directories/tree/exericse-ruby-string-replacement) from our existing publishing platform.
+* A [Javascript logging](https://github.com/voxmedia/revenue-hiring/tree/master/exercise-javascript-logging) code exercise for logging, filtering and reporting on events.
+* A [Ruby string manipulation library](https://github.com/voxmedia/moving-to-directories/tree/master/exericse-ruby-string-replacement) from our existing publishing platform.
 
 
 # FAQ About Exercises
