@@ -17,7 +17,6 @@ The basic plan is to build the following interface:
 swirly = Swirl.new()
 
 # Add in the html of your existing article
-# swirly.add_html('<lots of html>')
 swirly.add_html('<p>Can I have a glass of milk?</p>')
 
 # Add an affiliate look up database
