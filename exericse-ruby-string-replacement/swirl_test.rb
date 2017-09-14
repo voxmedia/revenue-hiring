@@ -89,7 +89,7 @@ class TestSwirl < Test::Unit::TestCase
   # to make sure we aren't mangling any of the HTML, but I wasn't sure
   # how to do that...
   def test_wont_mangle_the_html
-    assert false, "I was too tired to write this, please help me."
+    assert false, "I need help, can you finish this?"
   end
 end
 
