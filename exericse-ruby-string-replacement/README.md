@@ -17,7 +17,7 @@ The basic plan is to build the following interface:
 swirly = Swirl.new()
 
 # Add in the html of your existing article
-swirly.add_html('<lots of html>')
+swirly.add_html('<p>Can I have a glass of milk?</p>')
 
 # Add an affiliate look up database
 swirly.use_affiliate_database(<look up database object>)
@@ -25,6 +25,7 @@ swirly.use_affiliate_database(<look up database object>)
 # Gets the profit making article's HTML.
 # returns a string with links surrounding words matched in the database.
 swirly.money_making_html()
+# => <p>Can I have a <a href="https://susanscornermart.com/fresh/glass?partner=smooth">glass</a> of <a href="https://targot.com/must-move/milk?partner=smooth">milk</a>?</p>
 ```  
 
 The **Affiliate Lookup Database** you've selected is called _CashWords_ and has has few methods to look up words and find their affiliate link(s). It has this really handy feature that polls all of the partners and returns a collection of links and their affiliate revenue percent.
