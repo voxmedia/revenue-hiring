@@ -38,12 +38,13 @@ During the technical call be prepared to share your screen with us in a readable
 Optionally, you can send us your submissions via email ([brian.anderson@voxmedia.com](mailto://brian.anderson@voxmedia.com)).
 
 
-## The Sample Exercises
+# The Exercises
 
-* Link TKTKTK
-* Link TKTKKT
+* A [Javascript logging](https://github.com/voxmedia/revenue-hiring/master/exercise-javascript-logging) code exercise for logging, filtering and reporting on events.
+* A [Ruby string manipulation library](https://github.com/voxmedia/master/moving-to-directories/exericse-ruby-string-replacement) from our existing publishing platform.
 
-## FAQ About Exercises
+
+# FAQ About Exercises
 
 * **Can I use jQuery, React, Underscore, or other external libraries?** – Yes, this is totally fine. None of these examples require this, but if you feel more comfortable using these libraries go ahead.
 
