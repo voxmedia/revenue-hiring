@@ -2,7 +2,8 @@
 
 Our team has been asked to create a premium advertising experience for MegaBaby SuperWipes™. The ad experience they've requested allows users to perform a card sort inside the ad unit. They're hoping to get a sense of how well they are executing their refreshed company goals in the wake of the Great MegaBaby Warehouse Wipeout Incident of 2017.
 
-![MegaBaby Cardsort](https://www.dropbox.com/s/ssizbwdn50xenxb/megababy_start.png?dl=1)
+<img width="556" alt="megababy_start" src="https://user-images.githubusercontent.com/848147/40733513-718dc0ec-63fb-11e8-9b08-5235cc6b6a04.png">
+
 
 The design team has created an amazing mockup for us, and our code is almost there! The CSS and HTML is bulletproof, thankfully.
 
