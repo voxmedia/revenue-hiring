@@ -1,6 +1,6 @@
 # JavaScript Debugging Exercise
 
-Our team has been asked to create a premium advertising experience for MegaBaby SuperWipes™. The ad experience they've requested allows users to perform a card sort inside the ad unit. They're hoping to get a sense of how well they are executing their refreshed company goals in the wake of the Great MegaBaby Warehouse Wipeout Incident of 2017.
+Our team has been asked to create a premium advertising experience for MegaBaby SuperWipes™. The ad experience should allow users to drag and drop labels into two columns, allowing our loyal customers to vote with their minds and mice. They're hoping to get a sense of how well they are executing their refreshed company goals in the wake of the Great MegaBaby Warehouse Wipeout Incident of 2017.
 
 <img width="556" alt="megababy_start" src="https://user-images.githubusercontent.com/848147/40733513-718dc0ec-63fb-11e8-9b08-5235cc6b6a04.png">
 
@@ -16,6 +16,11 @@ But we're using the lovely [dragula](https://bevacqua.github.io/dragula/) open-s
 1. When a card is dropped in a column, the big emoji below the heading is supposed to change to be a smiley (if there are more "Yes" than "No" cards), a sad little face (if the "No" cards outnumber the "Yes" cards), or a grimacing face (if there are an equal number of "Yes" and "No" cards). [Just like this screenshot](https://www.dropbox.com/s/13a4aaq09wv5ysp/megababy_complete.png?dl=0). But we seem to be getting a JavaScript error.
 1. Even when the JavaScript isn't erroring out, the emoji still isn't getting updated below the header. The advertiser _really_ wants this feature, so it would be ideal if we could ship a working version.
 1. We're pretty sure after #4 is fixed, the emoji is updating! But it doesn't seem to be updating to the correct emoji, as stated as the specifications in #3. Let's try to get this last detail squared away, and the client will be so excited.
+
+## Instructions
+
+- Debug the JavaScript code to attempt to fix as many issues as you can. Don't worry if you can't get around to fixing everything; we're more interested in hearing about your process.
+- Don't worry about digging too deep into the `dragula` docs. There are two things you should take note of: the query selectors we are targeting in the HTML, and the specific events `dragula` provides for callbacks.
 
 ## Expected questions and discussion
 
