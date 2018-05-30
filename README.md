@@ -38,8 +38,8 @@ During the technical call be prepared to share your screen with us in a readable
 
 # The Exercises
 
-* A [Javascript logging](https://github.com/voxmedia/revenue-hiring/tree/master/exercise-javascript-logging) code exercise for logging, filtering and reporting on events.
-* A [Ruby string manipulation library](https://github.com/voxmedia/revenue-hiring/tree/master/exericse-ruby-string-replacement) from our existing publishing platform.
+* A [Javascript logging](https://github.com/voxmedia/revenue-hiring/tree/master/1-exercise-javascript-logging) code exercise for logging, filtering and reporting on events.
+* A [Ruby string manipulation library](https://github.com/voxmedia/revenue-hiring/tree/master/1-exericse-ruby-string-replacement) from our existing publishing platform.
 
 
 # FAQ About Exercises
