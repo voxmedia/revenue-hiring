@@ -1,6 +1,8 @@
 # Replace jQuery with Vanilla Javascript
 
-Here at **Clickable Dollars Corp™**, we specialize in creating really shnazzy buttons! We've been hard at work creating an amazing javascript file (`shnazzifier.js`) that can be loaded on any page and will take buttons from being boring stock UI buttons 🤮, to the most amazing smashable-buttons  ✨ _(obviously based on Lamé curves)_.
+Here at **Clickable Dollars Corp™**, we specialize in creating really shnazzy buttons! We've been hard at work creating an amazing javascript file (`shnazzifier.js`) that can be loaded on any page and will take buttons from being boring stock UI buttons 🤮, to the most amazing smashable-buttons. ✨
+
+![](https://dl.dropboxusercontent.com/s%2Fkchlboc2jhzioo7%2Fp00pv5fig.png)
 
 > Editor's note: While we'd like to think we invented this technique, we shamelessly stole it from [a great blog post](https://tympanus.net/codrops/2012/01/11/css-buttons-with-pseudo-elements/#). Thankfully no one has caught on, and we are nearly printing cash with our $1 a month licensing scheme.
 
