@@ -10,10 +10,14 @@ Nature of the problem:
 
 ## The Problem: Build a Content Recirculation Experience:
 
-WRITE NARRATIVE HERE TO INCLUDE.....
+In recent months we've become frustrated with the low quality recirculation ads that are running on our sites. There has to be a better way to do it.
 
-* We are going to be building a recirculation unit for our page similar to Outbrain or Taboola (Open Mic).
-* The unit must contain "recommended" content modules and paid modules.
+This call is a great time to prototype a recommendation system! Let's layout a few *requirements and constraints*:
+
+* This will live on all of our article pages
+* It will be visible on all breakpoints (desktop and mobile)
+* It will have an image, headline, and link
+* The unit will contain "recommended" content modules and paid modules.
 * The unit will receive 100,000 views per minute.
 * We must record how well the ad performed on our site (impressions, clicks).
 
