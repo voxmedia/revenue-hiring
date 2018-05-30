@@ -8,8 +8,6 @@ Here at **Clickable Dollars Corp™**, we specialize in creating really shnazzy 
 
 Recently our users have asked us to remove jQuery dependency _(silly users)._ But whatever, gotta keep making that money.
 
-If this goes well, we bet we can charge $2 a month for this "optimized" script.
-
 ### Original Design Guidelines
 When we built shnazzifier, back in 2013, we used the following principles:
 
@@ -25,6 +23,8 @@ When we built shnazzifier, back in 2013, we used the following principles:
 * Remove all usages of jQuery
 * Ugh, there is a 1px wiggle we could never remove, see if you can find the source and remove it.
 * You are free to add more optimizations as long as they don't violate the original design guidelines above.
+
+_If this goes well, we plan on charging $2 a month for this "optimized" script._
 
 ---
 
