@@ -15,7 +15,7 @@ You are well-versed in your company's ad building tools and know that you can bu
 
 There's no need to start coding just yet. For now, your job is to take a look at the prototype and its code and take some notes for the following questions you'll be asked in the next sales product team meeting:
 
-- **What parts of the code can be made dymanic variables or repeatable code snippets to streamline the production of these?**
+- **What parts of the code can be made dynamic variables or repeatable code snippets to streamline the production of these?**
 
 - **Are there any features you think should be added that would make the quiz more appealing and feel "more customized" for a client without adding a ton of extra design and engineering work?**
 
