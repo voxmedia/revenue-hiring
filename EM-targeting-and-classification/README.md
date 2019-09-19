@@ -1,5 +1,3 @@
-
-
 # Targeting and Classification Exercise
 
 In the last few years, large advertising brands have become increasingly concerned with ensuring their advertisements are not running next to offensive content. The industry has termed this "Brand Safety". This exercise we'd like to hear how you would design a system to help ensure this is possible.
