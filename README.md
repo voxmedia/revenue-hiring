@@ -1,16 +1,17 @@
-# Vox Media Programming Exercise v2
+_Are you interested at working with us at Vox Media Engineering? We are hiring, [take a look at our jobs](https://www.voxmedia.com/pages/careers-jobs#product-technology-design)._
+
+# Vox Media Programming Exercises
 
 Hello and welcome, I promise this will not be painful. We are looking to understand your programming skills without sweat, live coding or intestinal distress.
 
 We thought the best way to do this is have you **pick two** of the following ways to demonstrate your technical abilities with us:
 
 * **Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
-* **A Javascript logging code exercise** for logging, filtering and reporting on events.
-* **A Ruby string manipulation library** from our existing publishing platform.
+* Or one of the level-appropriate examples found in this repository.
 
 All of these are weighted equally, we really want you to be as comfortable and confident as possible sharing your solutions with us.
 
-The sample exercises are scoped to an hour to an hour-and-a-half because we all have lives outside of work and away from the computer too.
+The sample exercises are scoped to an hour because we all have lives outside of work and away from the computer too.
 
 ## Conversational Assessment
 
@@ -36,16 +37,27 @@ Additionally, pretend we work together:
 
 During the technical call be prepared to share your screen with us in a readable (sufficiently large) font size.
 
-# The Exercises
-
-* A [Javascript logging](https://github.com/voxmedia/revenue-hiring/tree/master/1-exercise-javascript-logging) code exercise for logging, filtering and reporting on events.
-* A [Ruby string manipulation library](https://github.com/voxmedia/revenue-hiring/tree/master/1-exericse-ruby-string-replacement) from our existing publishing platform.
-
 
 # FAQ About Exercises
 
 * **Can I use jQuery, React, Underscore, or other external libraries?** – You are free to use any tools, libraries, and frameworks you feel comfortable using.
 
-* **Who wrote this? I have so many questions** – Please send all questions to [brian.anderson@voxmedia.com](mailto://brian.anderson@voxmedia.com) and we'll try to answer them as quickly as possible.
+* **Who wrote this? I have so many questions** – If you are an Vox Meida job applicant and you have questions please send them all to [brian.anderson@voxmedia.com](mailto://brian.anderson@voxmedia.com).
 
 * **Wait, you think my affiliate linking startup will be successful?** – Who knows, we are not analysts, investors nor lawyers.
+
+# License
+
+Copyright 2019 Vox Media
+
+Licensed under the Apache License, Version 2.0 (the "License")
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
