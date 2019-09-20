@@ -16,24 +16,26 @@ _This exercise is conversational, and no artifacts need to be produced beforehan
 
 ---
 
-## The Problem:
+## The Problem
+
 * We are going to be building a targeting and classification system to provide more information about the content of the pages where we run our ads.
-* This information to be available via a web request to a JSON endpoint on page load, this has to happen before we can request ads on the page.
-* Response payload should contain a list of matched keywords on the page previously defined by us, but could contain other types of classifications in the future.
+* This information will be available via an HTTP request to a JSON endpoint, that should be requested on page load. This must happen before we can request ads on the page.
+* Response payload should contain a list of matching keywords. Keywords are added by employees as lists. (This response payload may contain other types of classifications in the future.)
 * Payload is requested once per page view; more than 40MM+ requests per day.
 
-## Expected questions and discussion:
+## Expected questions and discussion
 
 * Should this happen in an external service or in the browser?
 * How does it scale?
-* How do we handle caching and invalidation?
-* Given that classifying content might take some time, how do we still ensure fast delivery with accurate classification?
+* How do we handle caching and cache-invalidation?
+* Given that classifying content might take some time, how do we  ensure fast delivery with accurate classification?
 * What sort of rate limiting might we need?
 * How can we manage keyword entries?
-* Considering network requests are asynchronous, how can we still ensure an order of operation?
+* Considering performant network requests are asynchronous, how can we still ensure an order of operation?
 * Some of these keywords might be nasty, how could we shield users from them?
 
-## Additional context and limitations:
+## Additional context and limitations
+
 * Payload should load in less than 200ms on an average internet connection.
 * We’d like to add more classifications, how could we add:
   * Category of content, according to a third-party API
