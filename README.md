@@ -42,7 +42,7 @@ During the technical call be prepared to share your screen with us in a readable
 
 * **Can I use jQuery, React, Underscore, or other external libraries?** – You are free to use any tools, libraries, and frameworks you feel comfortable using.
 
-* **Who wrote this? I have so many questions** – If you are a Vox Media job applicant and you have questions please send them all to [brian.anderson@voxmedia.com](mailto://brian.anderson@voxmedia.com).
+* **Who wrote this? I have so many questions** – If you are a Vox Media job applicant and you have questions please send them all to [revenue-hiring-questions@voxmedia.com](mailto://revenue-hiring-questions@voxmedia.com).
 
 * **Wait, you think my affiliate linking startup will be successful?** – Who knows, we are not analysts, investors nor lawyers.
 
