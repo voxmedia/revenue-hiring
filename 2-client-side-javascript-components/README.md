@@ -18,12 +18,16 @@ To make the Concert Breakfast Studio interactive, our goal is to see the followi
 - When a user clicks on the plus icon for a menu item, it **increments the number** in the `Add to Cart (0)` button and changes the plus icon to a minus icon
 - When a user clicks on the minus icon for a menu item, it **decrements the number** in the `Add to Cart (n)` button and changes the minus icon back to a plus button
 
+## Getting Started
+
 To get you started quickly, we have starter projects hosted on [CodeSandbox](https://codesandbox.io) for both React and Vue:
 
 - [React](https://codesandbox.io/s/e2-react-556dz)
 - [Vue](https://codesandbox.io/s/e2-vue-emjvb)
 
-Feel free to fork either sandbox (a free CodeSandbox account is required) to start in on your version — or create your own from scratch using a completely different client-side framework! _We're not looking for Vue- or React-specific answers; rather an understanding of client-side JavaScript component architecture._
+Feel free to fork either sandbox (a free CodeSandbox account is required) to start in on your version — or create your own from scratch using a completely different client-side framework! 
+
+_We're not looking for Vue- or React-specific solutions; rather, we hope to see a basic understanding of client-side JavaScript component architecture._
 
 ## Conversations and Questions
 
