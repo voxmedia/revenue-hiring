@@ -12,11 +12,13 @@ The HTML and CSS has already been mocked up, so your responsibility is to make t
 
 To make the Concert Breakfast Studio interactive, our goal is to see the following:
 
-- Pull in a **dynamic list** of menu items, living as a constant in `kitchen.js`, and replace the static items in the mockup
-- When a user enters search text, **filter menu items by title**
-- When a user selects a food group, **filter menu items by group tags**
-- When a user clicks on the plus icon for a menu item, it **increments the number** in the `Add to Cart (0)` button and changes the plus icon to a minus icon
-- When a user clicks on the minus icon for a menu item, it **decrements the number** in the `Add to Cart (n)` button and changes the minus icon back to a plus button
+- Pull in a **dynamic list** of menu items, living as a constant in `kitchen.js`, and replace the static items in the mockup.
+- The `Food Groups` filter dropdown is populated with a **unique, alphabetical list** of all possible groups from the menu.
+- The items in the `Food Groups` filter are **capitalized**, but the group labels in the menu items are lowercase.
+- When a user enters search text, **filter menu items by title**.
+- When a user selects a food group, **filter menu items by group tags**.
+- When a user clicks on the plus icon for a menu item, it **increments the number** in the `Add to Cart (0)` button and changes the plus icon to a minus icon.
+- When a user clicks on the minus icon for a menu item, it **decrements the number** in the `Add to Cart (n)` button and changes the minus icon back to a plus button.
 
 ## Getting Started
 
