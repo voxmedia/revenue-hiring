@@ -20,7 +20,7 @@ _This exercise is conversational, and no artifacts need to be produced beforehan
 
 ## The Problem
 
-* We want to be able to have as many workers as possible (in our reality, they're `resque` workers, but that's an implementation detail), while still conforming to our API connection limit?
+* We want to be able to have as many workers as possible (in our reality, they're `resque` workers, but that's an implementation detail), while still conforming to our API connection limit.
 
 * The worker processes themselves should be treated as "unreliable"; they might hang and they might be suddenly (not-cleanly) terminated, etc.
 
