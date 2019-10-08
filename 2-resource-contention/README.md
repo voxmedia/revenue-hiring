@@ -2,7 +2,7 @@
 
 Our latest project involves many independent worker-processes performing many disparate tasks (e.g. fetching URL contents, making requests to external APIs, calculations on data, etc.).
 
-Our deployment platform (Heroku) makes scaling the resources peforming this work incredibly easy, but sadly, we have other choke-points: one of the external APIs being consumed has a hard-limit on the number of concurrent connections we can make.
+Our deployment platform makes scaling the resources performing this work incredibly easy, but sadly, we have other choke-points: one of the external APIs being consumed has a hard-limit on the number of concurrent connections we can make.
 
 How can we best maximize our usage of scalable resources, while still not breaking this limit?
 
