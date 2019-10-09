@@ -10,7 +10,7 @@ The HTML and CSS has already been mocked up, so your responsibility is to make t
 
 ## Your Task
 
-To make the Concert Breakfast Studio interactive, our goal is to see the following:
+To make the Concert Breakfast Studio interactive, you will need to do the following:
 
 - Pull in a **dynamic list** of menu items, living as a constant in `kitchen.js`, and replace the static items in the mockup.
 - The `Food Groups` filter dropdown is populated with a **unique, alphabetical list** of all possible groups from the menu.
