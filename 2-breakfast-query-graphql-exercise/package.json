@@ -1,0 +1,24 @@
+{
+  "name": "vox-media-revenue-exercise-breakfastql",
+  "description": "",
+  "dependencies": {
+    "@apollo/federation": "https://51874-56760633-gh.circle-artifacts.com/0/packed/%40apollo/federation/federation-0.10.0.tgz",
+    "@apollo/gateway": "https://51874-56760633-gh.circle-artifacts.com/0/packed/%40apollo/gateway/gateway-0.10.5.tgz",
+    "apollo-server": "https://51874-56760633-gh.circle-artifacts.com/0/packed/apollo-server/apollo-server-2.9.4.tgz",
+    "graphql": "^14.5.8",
+    "graphql-tag": "^2.10.1"
+  },
+  "license": "Apache 2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js localhost 4000",
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/graphql": "14.0.1",
+    "jest": "24.9.0",
+    "nodemon": "1.18.4",
+    "prettier": "^1.18.2"
+  }
+}
