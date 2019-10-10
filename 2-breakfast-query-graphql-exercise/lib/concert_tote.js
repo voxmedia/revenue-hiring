@@ -1,10 +1,10 @@
 // No modification necessary
-const items = require("./food_items");
+const items = require('./food_items');
 
 class ConcertTote {
   constructor() {
     this.data = new Map();
-    this.set({ key: "foodItems", value: items });
+    this.set({ key: 'foodItems', value: items });
   }
 
   get({ key }) {
@@ -20,7 +20,7 @@ class ConcertTote {
   }
 
   update({ key, by }) {
-    this.set({key: key, value: by.call(null, this.get({key: key}))})
+    this.set({ key: key, value: by.call(null, this.get({ key: key })) });
   }
 }
 
