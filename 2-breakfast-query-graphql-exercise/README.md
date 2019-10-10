@@ -25,7 +25,7 @@ Because our director is a bit of a micromanager, you've been asked to **build th
 1. Concert Breakfast Engineers (internally we've rebranded ourselves The Code Wafflers) provided a small interactive sandbox.
    * You can run it online using codesandbox.io: [BreakfastQL](https://codesandbox.io/s/vox-media-revenue-exercise-breakfastql-0h000) **Fork this sandbox and perform your work here** or
    * **clone this repository** and inside this directory run `yarn` and `yarn run` to run this example locally, the GraphiQL interface will be available at http://localhost:4000 (it will reload every time you save a file).
-1. First step you will need to **define the data structures** (graphql types) required. Again, thanks to that tightwad Director he's mandaited the delicious `FoodItem` must include:
+1. First step you will need to **define the data structures** (graphql types) required. Again, thanks to that overbearing Director he's mandaited the delicious `FoodItem` must include:
     - a unique id (`ID`)
     - an image url (`string`),
     - the tasty food name (`string`),
