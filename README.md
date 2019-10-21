@@ -4,10 +4,17 @@ _Are you interested at working with us at Vox Media Engineering? We are hiring, 
 
 Hello and welcome, I promise this will not be painful. We are looking to understand your programming skills without sweat, live coding or intestinal distress.
 
-We thought the best way to do this is have you **pick two** of the following ways to demonstrate your technical abilities with us:
+We thought the best way to do this is have you **pick two** of the following ways to demonstrate your technical abilities with us.
 
-* **Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
-* Or one of the level-appropriate examples found in this repository.
+Either:
+
+* *Pick 2* level-appropriate hiring exercises ("Level 2" exercises are prefixed with `2-`)
+
+OR
+
+* "Pick 1* level-appropriate hiring exercises
+* AND **Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
+
 
 All of these are weighted equally, we really want you to be as comfortable and confident as possible sharing your solutions with us.
 
