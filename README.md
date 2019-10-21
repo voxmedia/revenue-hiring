@@ -8,12 +8,12 @@ We thought the best way to do this is have you **pick two** of the following way
 
 Either:
 
-* *Pick 2* level-appropriate hiring exercises ("Level 2" exercises are prefixed with `2-`)
+* *Pick Two* level-appropriate hiring exercises ("Level 2" exercises are prefixed with `2-`)
 
 OR
 
-* "Pick 1* level-appropriate hiring exercises
-* AND **Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
+* *Pick One* level-appropriate hiring exercise
+* **AND Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
 
 
 All of these are weighted equally, we really want you to be as comfortable and confident as possible sharing your solutions with us.
