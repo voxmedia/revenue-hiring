@@ -1,8 +1,8 @@
 var example = document.querySelector(".example-wrapper");
 var spilled = false;
 
-var observer = new IntersectionObserver(observeExample, observerOptions);
 var observerOptions = { threshold: 1 };
+var observer = new IntersectionObserver(observeExample, observerOptions);
 
 var colors = {
   0: "rgb(248, 57, 9)",

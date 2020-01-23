@@ -10,28 +10,19 @@ The working example shows desired animation and syle updates. Update the parent 
 
 - The apple juice spills when any part of the ad leaves the viewport and is cleaned up when the ad enters the viewport.
 - The ad should match the background color of the example, Notice the background color changes on refresh.
-
-Do not remove the sandbox attribute on the frame in the parent project!
+- The parent project `iframe` should inslude the `sandbox` attribute.
 
 ## Getting Started
 
 The code is hosted on [Glitch](https://glitch.com/). After making an account, you can copy starter files by remixing existing projects or cloning projects form this repo. 
 
-Remember to update the frame `src` to point to your new project in the parent project.
-
-### Option One
+Remember to update the frame `src` to point to your new frame project in the parent project.
 
 Remix sarter projects on Glitch: 
 
-[![Remix Parent Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-parent)
+[![Remix Parent Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-parent) <-- parent project
 
-[![Remix Frame Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-frame)
-
-### Option Two
-
-[Import code](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875) from starter files into Glitch. 
-
-![](https://miro.medium.com/max/750/1*oikoMU73qlfYDq9MCbpFDg.gif)
+[![Remix Frame Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-frame) <-- frame project
 
 ## Conversations and Questions
 
