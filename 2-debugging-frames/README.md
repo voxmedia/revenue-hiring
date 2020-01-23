@@ -14,7 +14,7 @@ The working example shows desired animation and style updates. Update the parent
 
 ## Getting Started
 
-You will clone **two** projects for this exercise. The code is hosted on [Glitch](https://glitch.com/). After making an account, clone or remix the starter files. 
+You will clone **two** projects for this exercise. The code is hosted on [Glitch](https://glitch.com/). After making an account, remix the starter projects and start debugging! 
 
 Remix parent project on Glitch: 
 
