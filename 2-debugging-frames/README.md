@@ -14,15 +14,17 @@ The working example shows desired animation and syle updates. Update the parent 
 
 ## Getting Started
 
-The code is hosted on [Glitch](https://glitch.com/). After making an account, you can copy starter files by remixing existing projects or cloning projects form this repo. 
+You will clone **two** projects for this exercise. The code is hosted on [Glitch](https://glitch.com/). After making an account, clone or remix the starter files. 
 
-Remember to update the frame `src` to point to your new frame project in the parent project.
+Remix parent project on Glitch: 
 
-Remix sarter projects on Glitch: 
+[![Remix Parent Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-parent) 
 
-[![Remix Parent Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-parent) <-- parent project
+Remix frame project on Glitch: 
 
-[![Remix Frame Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-frame) <-- frame project
+[![Remix Frame Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-frame)
+
+Remember to update the `iframe` in the parent prject to point to your new frame project!
 
 ## Conversations and Questions
 
