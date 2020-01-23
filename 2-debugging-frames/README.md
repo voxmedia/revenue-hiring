@@ -2,15 +2,15 @@
 
 Silly apple juice ad bug intro TK
 
-If you do not finish that is just fine! We are interested in how you approach and debug. Keep track of the steps you take to dubug so we can have a conversation about tricky problems!
+If you do not finish that is just fine! We are interested in how you approach. Keep track of the steps you take to debug so we can have a conversation about tricky problems!
 
 ## Your Task
 
-The working example shows desired animation and syle updates. Update the parent and frame projects so the broken ad in the parent project matches the example.
+The working example shows desired animation and style updates. Update the parent and frame projects so the broken ad in the parent project matches the example.
 
 - The apple juice spills when any part of the ad leaves the viewport and is cleaned up when the ad enters the viewport.
 - The ad should match the background color of the example, Notice the background color changes on refresh.
-- The parent project `iframe` should inslude the `sandbox` attribute.
+- The parent project `iframe` should include the `sandbox` attribute.
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Remix frame project on Glitch:
 
 [![Remix Frame Project on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/debugging-frame)
 
-Remember to update the `iframe` in the parent prject to point to your new frame project!
+Remember to update the `iframe` in the parent project to point to your new frame project!
 
 ## Conversations and Questions
 
