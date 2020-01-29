@@ -1,16 +1,16 @@
 # E2: Debugging Frames
 
-Silly apple juice ad bug intro TK
+Concert designers have dreamed up a revolutionary tippy apple juice concept. The animated mockup is wowing clients across verticals! Most of the ad is built. There are just a couple bugs left to be ironed out. That is your job!
 
-If you do not finish that is just fine! We are interested in how you approach. Keep track of the steps you take to debug so we can have a conversation about tricky problems!
+If you do not finish that is just fine. We are more interested in your approach. Keep track of steps you take to debug so we can have a conversation about tricky problems!
 
 ## Your Task
 
-The working example shows desired animation and style updates. Update the parent and frame projects so the broken ad in the parent project matches the example.
+In the parent project, the animated mockup shows the desired animation and background color. Update the parent and frame projects so the broken ad product matches the animated mockup in the parent project.
 
-- The apple juice spills when any part of the ad leaves the viewport and is cleaned up when the ad enters the viewport.
-- The ad should match the background color of the example, Notice the background color changes on refresh.
-- The parent project `iframe` should include the `sandbox` attribute.
+- **Animation:** The apple juice spills when the ad nears the viewport and is cleaned up when the ad is scrolled back to the middle of the viewport.
+- **Background Color:** The ad should match the background color of the animated mockup. Notice the background color changes on refresh.
+- **The Only Rule:** The parent project `iframe` should include the `sandbox` attribute.
 
 ## Getting Started
 
@@ -27,8 +27,6 @@ Remix frame project on Glitch:
 Remember to update the `iframe` in the parent project to point to your new frame project!
 
 ## Conversations and Questions
-
-TK
 
 - Where did you start with the exercise?
 - Why did you choose to begin the way you did?
