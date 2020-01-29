@@ -8,9 +8,9 @@ If you do not finish that is just fine. We are more interested in your approach.
 
 In the parent project, the animated mockup shows the desired animation and background color. Update the parent and frame projects so the broken ad product matches the animated mockup in the parent project.
 
-- **Animation:** The apple juice spills when the ad nears the viewport and is cleaned up when the ad is scrolled back to the middle of the viewport.
-- **Background Color:** The ad should match the background color of the animated mockup. Notice the background color changes on refresh.
-- **The Only Rule:** The parent project `iframe` should include the `sandbox` attribute.
+- **Animation:** The apple juice spills when the ad nears the viewport and is cleaned up when scrolled away from the viewport.
+- **Background color:** The ad should match the background color of the animated mockup. Notice the background color changes on refresh.
+- **The only rule:** The parent project `iframe` should include the `sandbox` attribute.
 
 ## Getting Started
 
