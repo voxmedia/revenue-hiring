@@ -1,8 +1,8 @@
 # E2: Debugging Frames
 
-Concert designers have dreamed up a revolutionary tippy apple juice concept. The animated mockup is wowing clients across verticals! Most of the ad is built. There are just a couple bugs left to be ironed out. That is your job!
+Our Ad Agency designers have dreamed up a revolutionary new feature for our ads: a tippy apple juice animation! The animated mockup is wowing clients across all of our sites. Most of the code for the ad is written, but there are a couple bugs left to be ironed out. That is your job!
 
-If you do not finish that is just fine. We are more interested in your approach. Keep track of steps you take to debug so we can have a conversation about tricky problems!
+Take some time to explore the code and debug -- please spend no longer than an hour with the project. If you do not finish that is just fine! We are more interested in your approach to problem solving and debugging. Keep track of the steps you take to debug so we can have a conversation about tricky problems!
 
 ## Your Task
 
