@@ -34,6 +34,7 @@ Remember to update the `iframe` in the parent project to point to your new frame
 - What would you do differently next time?
 - What do you do when you get stuck?
 - Did you learn anything new?
+- What documentation would you provide for this project for other engineers?
 
 
 

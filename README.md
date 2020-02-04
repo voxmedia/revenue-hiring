@@ -25,7 +25,7 @@ The sample exercises are scoped to an hour because we all have lives outside of 
 Our goal here is to learn more about the thought process behind your work. You should write this code like you are part of our team. We are interested in the decisions you made, why you made them, and how you would explain these choices and the architecture so your team can understand it. We will be asking questions like the following:
 
 * What was the first thing you did after reading the exercises?
-* Why did you chose this approach?
+* Why did you choose this approach?
 * Tell us more about this architecture?
 * What specific syntax decisions did you make?
 * Were there interesting optimizations you discovered?
