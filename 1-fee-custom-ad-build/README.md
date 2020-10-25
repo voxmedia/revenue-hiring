@@ -58,15 +58,17 @@ This campaign is high-dollar (250K) and running as a site-wide takeover tomorrow
 
 #### Desktop: 
 
-![desktop intro panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-intro-panel.jpg?v=1603418253035)
-![desktop question panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-question-2-panel.jpg?v=1603418283341)
-![desktop results panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-results-panel.jpg?v=1603418283362)
+| Desktop Intro Panel  | Desktop Question Panel  | Desktop Results Panel  |
+|---|---|---|
+| <img src="https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-intro-panel.jpg?v=1603418253035" width="400" alt="desktop intro panel">  | <img src="https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-question-2-panel.jpg?v=1603418283341" width="400" alt="desktop question panel">  | <img src="https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-results-panel.jpg?v=1603418283362" width="400" alt="desktop results panel">  |
 
 #### Mobile: 
 
-![mobile intro panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-intro-panel.jpg?v=1603418308522)
-![mobile question panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-question-2-panel.jpg?v=1603418308614)
-![mobile results panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-results-panel.jpg?v=1603418308636)
+| Mobile Intro Panel  | Mobile Question Panel  | Mobile Results Panel  |
+|---|---|---|
+| <img src="https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-intro-panel.jpg?v=1603418308522" width="200" alt="mobile intro panel"> | <img src="https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-question-2-panel.jpg?v=1603418308614" width="200" alt="mobile question panel">  | <img src="https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-results-panel.jpg?v=1603418308636" width="200" alt="mobile results panel"> |
+
+
 
 ### Assets and Requirements are ready to go and as follows:
 
