@@ -54,7 +54,21 @@ They have asked for a fun, interactive experience to help people find the right 
 
 This campaign is high-dollar (250K) and running as a site-wide takeover tomorrow only, so unfortunately, this demands a quick turnaround and needs to be delivered to the client by end-of-day in order to get approval and be set up for launch by the Advertising Operations team.
 
-### Mocks, Assets and Requirements are ready to go and as follows:
+### Mocks: 
+
+#### Desktop: 
+
+![desktop intro panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-intro-panel.jpg?v=1603418253035)
+![desktop question panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-question-2-panel.jpg?v=1603418283341)
+![desktop results panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-desktop-results-panel.jpg?v=1603418283362)
+
+#### Mobile: 
+
+![mobile intro panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-intro-panel.jpg?v=1603418308522)
+![mobile question panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-question-2-panel.jpg?v=1603418308614)
+![mobile results panel](https://cdn.glitch.com/cf7f6919-57b5-474d-8916-e729aae9488b%2F_mock-mobile-results-panel.jpg?v=1603418308636)
+
+### Assets and Requirements are ready to go and as follows:
 
 - Design has uploaded JPG design mocks and a variety of already cropped assets for both mobile and desktop to the assets section.
 - Client is fine with using live text/default sans-serif fonts as needed.
