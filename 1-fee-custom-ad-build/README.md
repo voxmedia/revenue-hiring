@@ -76,7 +76,8 @@ This campaign is high-dollar (250K) and running as a site-wide takeover tomorrow
 - Client is fine with using live text/default sans-serif fonts as needed.
 - The quiz will ask two questions, and based on the user’s answers, will recommend a set of pets to adopt and display each pet’s photo, name, and a button users can click to get to their pet listing.
 - Unit must be responsive to match the mocks for both mobile and desktop. Our ad template is set up to automatically resize by aspect ratio based on the window width, so make sure you adjust assets as needed within the template.
-- Each pet photo should link out to a corresponding pet listing on the Paws & Co. website. (Client will provide links prior to launch, so for now use placeholder links, e.g. `http:/www.google.com?q=cooper`, `http:/www.google.com?q=scout`, etc.)
+- Each pet photo should link out to a corresponding pet listing on the Paws & Co. website. (Client will provide links prior to launch, so for now use placeholder links, e.g. `https:/www.google.com?q=cooper`, `https:/www.google.com?q=scout`, etc.)
+- Logo should click out to the Paws & Co. main site. Use placeholder `https://www.google.com?q=Paws&Co` for now.
 
 
 ### Quiz Question tree/path/user flow:
