@@ -2,7 +2,7 @@
 1. This exercise aims to be a close example of **the type of work you will routinely tackle in this role**. There are no tricks! We are interested in how you approach the task and if you enjoy the work.
 1. Take some time reading the requirements below and plan your approach -- please spend no longer than an hour or two with the project. **If you do not finish that is just fine!** (and **expected!** -- as projects like these are usually allowed at least 1-3 full business days for turnaround.)
 1. We are most interested in **how you use what you already know to solve problems quickly.**
-1. All requirements for the exercise are in the EXERCISE.md file.
+1. All assets for the exercise are in the EXERCISE.md file on Glitch (see below).
 
 # Conversational Assessment (What to expect in the technical interview)
 Our goal here is to learn more about the thought process behind your work. You should write this code like you are part of our team. 
