@@ -8,11 +8,11 @@ We thought the best way to do this is have you **pick two** of the following way
 
 Either:
 
-* *Pick Two* level-appropriate hiring exercises ("Level 2" exercises are prefixed with `2-`)
+* *Pick Two* hiring exercises from the list given to you by your interview coordinator
 
 OR
 
-* *Pick One* level-appropriate hiring exercise
+* *Pick One* hiring exercise from the list given to you by your interview coordinator
 * **AND Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
 
 
