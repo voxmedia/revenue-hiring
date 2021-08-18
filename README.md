@@ -13,7 +13,7 @@ Auth0
 * **Hosting/Processing/Ops:** Heroku, GCP, Resque, Redis, AWS Lambda, Google Cloud Run, Kubernetes, GitHub Actions, Terraform (data) 
 * **Other:** Amazon Elastic Video transcoder, Google Ad Manager
 
-# :memo: How to prepare for your interview:
+# :memo: How to prepare for your interview
 
 Hello, and thank you for your interest in Vox Media Engineering!
 
@@ -30,11 +30,11 @@ OR
 * **One** hiring exercise from the list given to you by your interview coordinator
 * **One** demo of code that you previously worked on.
 
-Either path you choose in your own adventure is up to you as all options are weighted equally.
+All options are weighted equally!
 
+## The conversational assessment
 The technical evaluations are meant to facilitate conversation to assess team fit, and technical and communication skills.
 
-## Conversational assessment
 Here is an outline of questions or topics to expect during the panel evaluation:
 * What was the use case and scope of the project? What was implemented?
 * What was your process for reading through the exercise? 
@@ -44,10 +44,9 @@ Here is an outline of questions or topics to expect during the panel evaluation:
 * Any future work and considerations you’d like to highlight.
 
 ## Sharing and submitting
-Feel free to share any slides, links or documentation to the work ahead of time by sending an email to the hiring manager or respective interviewer with your full name in the subject line.
+Feel free to share any slides, links or documentation to the work ahead of time by sending an email to your recruiting contact, the hiring manager or respective interviewer with your full name in the subject line.
 
-
-# :question: FAQ About exercises
+# :question: FAQ about exercises
 
 * **Can I use jQuery, React, Underscore, or other external libraries?** – Yes! You are free to use any tools, libraries, and frameworks you feel comfortable using.
 
