@@ -1,5 +1,25 @@
-_Are you interested at working with us at Vox Media Engineering? We are hiring, [take a look at our jobs](https://www.voxmedia.com/pages/careers-jobs#product-technology-design)._
+_Want to join us at Vox Media Engineering? [We are hiring!](https://www.voxmedia.com/pages/careers-jobs#product-technology-design)_
 
+# :memo: Who we are
+Revenue Product a group of product managers, project managers, engineers, designers, and data scientists that works closely with the Revenue organization as well as other PDT teams to build quality, trusted, and innovative solutions that monetize and fund Vox Media’s commitment to quality journalism, allowing for other publishers and brands to do the same across Vox Media’s networks.
+
+
+## What are the tech stack and key tools used by Revenue Product
+**Back End Technologies:**
+Rails (For applications), Python, Node.js + Express
+**Front End Technologies:**
+React, Vanilla ES6 JavaScript libraries, HTML, CSS, YAML/JSON
+**Data/Database/APIs:**
+MySQL, Postgres, GraphQL, TextRazor, BigQuery, MongoDB
+**Authentication:** 
+Auth0
+**Storage/Caching: **
+S3 and Fastly (files), GCP (data)
+**Hosting/Processing/Ops:**
+Heroku, GCP, Resque, Redis, AWS Lambda, Google Cloud Run, Kubernetes, GitHub Actions, Terraform (data) 
+**Other:** Amazon Elastic Video transcoder, Google Ad Manager
+
+# :memo: Vox Media Programming Exercises
 # Vox Media Programming Exercises
 
 Hello and welcome, I promise this will not be painful. We are looking to understand your programming skills without sweat, live coding or intestinal distress.
@@ -55,7 +75,7 @@ During the technical call be prepared to share your screen with us in a readable
 
 # License
 
-Copyright 2019 Vox Media
+Copyright 2021 Vox Media
 
 Licensed under the Apache License, Version 2.0 (the "License")
 you may not use this file except in compliance with the License.
