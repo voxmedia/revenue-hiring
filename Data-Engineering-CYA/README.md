@@ -43,7 +43,7 @@ We’d love to see any relevant past work you have completed! Use this time to d
 Feel free to share any slides, links or documentation to the work ahead of time by sending an email to rp.dataproduct@voxmedia.com with your full name in the subject line.
 
 Here is an outline of the panel topics and kinds of questions to expect:
-* What was this use case and scope of the project? 
+* What was the use case and scope of the project? 
 * What data sources were used?
 * How data was retrieved, ingested, transformed, and loaded from data?
 * What tools did you use and was this process automated, if not how could it be achieved?
