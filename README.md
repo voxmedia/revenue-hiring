@@ -3,7 +3,6 @@ _Want to join us at Vox Media Engineering? [We are hiring!](https://www.voxmedia
 # :memo: Who we are
 Revenue Product a group of product managers, project managers, engineers, designers, and data scientists that works closely with the Revenue organization as well as other PDT teams to build quality, trusted, and innovative solutions that monetize and fund Vox Media’s commitment to quality journalism, allowing for other publishers and brands to do the same across Vox Media’s networks.
 
-
 ## What are the tech stack and key tools used by Revenue Product
 **Back End Technologies:**
 Rails (For applications), Python, Node.js + Express
@@ -19,26 +18,24 @@ S3 and Fastly (files), GCP (data)
 Heroku, GCP, Resque, Redis, AWS Lambda, Google Cloud Run, Kubernetes, GitHub Actions, Terraform (data) 
 **Other:** Amazon Elastic Video transcoder, Google Ad Manager
 
-# :memo: Vox Media Programming Exercises
-# Vox Media Programming Exercises
+# :memo: How to prepare for your interview:
 
-Hello and welcome, I promise this will not be painful. We are looking to understand your programming skills without sweat, live coding or intestinal distress.
+Hello, and thank you for your interest in Vox Media Engineering!
 
-We thought the best way to do this is have you **pick two** of the following ways to demonstrate your technical abilities with us.
+If you are joining us as part of an interview process, please work with your interview coordinator to choose the relevant technical exercises for the technical evaluation component of the interview. 
+Otherwise, feel free to review any of the material here.
 
-Either:
+We typically ask candidates to spend no more than 2 hours on these exercises to prepare for a technical panel evaluation.  
+For our engineering IC roles, you will typically prepare for said panel evaluation by picking:
 
-* *Pick Two* hiring exercises from the list given to you by your interview coordinator
-
+* *Two* hiring exercises from the list given to you by your interview coordinator
 OR
+* *One* hiring exercise from the list given to you by your interview coordinator
+* *one* demo of code that you previously worked on.
 
-* *Pick One* hiring exercise from the list given to you by your interview coordinator
-* **AND Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
+Either path you choose in your own adventure is up to you as all options are weighted equally.
 
-
-All of these are weighted equally, we really want you to be as comfortable and confident as possible sharing your solutions with us.
-
-The sample exercises are scoped to an hour because we all have lives outside of work and away from the computer too.
+The technical evaluations are meant to facilitate conversation to assess team fit, and technical and communication skills.
 
 ## Conversational Assessment
 
