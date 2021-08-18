@@ -1,22 +1,17 @@
+# :moneybag: Who we are
+Revenue Product is a group of product managers, project managers, engineers, designers, and data scientists that works closely with the Revenue organization as well as other PDT teams to build quality, trusted, and innovative solutions that monetize and fund Vox Media’s commitment to quality journalism, allowing for other publishers and brands to do the same across Vox Media’s networks.
+
 _Want to join us at Vox Media Engineering? [We are hiring!](https://www.voxmedia.com/pages/careers-jobs#product-technology-design)_
 
-# :memo: Who we are
-Revenue Product a group of product managers, project managers, engineers, designers, and data scientists that works closely with the Revenue organization as well as other PDT teams to build quality, trusted, and innovative solutions that monetize and fund Vox Media’s commitment to quality journalism, allowing for other publishers and brands to do the same across Vox Media’s networks.
-
-## What are the tech stack and key tools used by Revenue Product
-**Back End Technologies:**
-Rails (For applications), Python, Node.js + Express
-**Front End Technologies:**
-React, Vanilla ES6 JavaScript libraries, HTML, CSS, YAML/JSON
-**Data/Database/APIs:**
-MySQL, Postgres, GraphQL, TextRazor, BigQuery, MongoDB
-**Authentication:** 
+## What are the tech stack and key tools used by Revenue Product?
+* **Back End Technologies:** Rails (For applications), Python, Node.js + Express
+* **Front End Technologies:** React, Vanilla/ES6 JavaScript, HTML, CSS, YAML/JSON
+* **Data/Database/APIs:** MySQL, Postgres, GraphQL, TextRazor, BigQuery, MongoDB
+* **Authentication:** 
 Auth0
-**Storage/Caching: **
-S3 and Fastly (files), GCP (data)
-**Hosting/Processing/Ops:**
-Heroku, GCP, Resque, Redis, AWS Lambda, Google Cloud Run, Kubernetes, GitHub Actions, Terraform (data) 
-**Other:** Amazon Elastic Video transcoder, Google Ad Manager
+* **Storage/Caching:** S3 and Fastly (files), GCP (data)
+* **Hosting/Processing/Ops:** Heroku, GCP, Resque, Redis, AWS Lambda, Google Cloud Run, Kubernetes, GitHub Actions, Terraform (data) 
+* **Other:** Amazon Elastic Video transcoder, Google Ad Manager
 
 # :memo: How to prepare for your interview:
 
@@ -26,18 +21,20 @@ If you are joining us as part of an interview process, please work with your int
 Otherwise, feel free to review any of the material here.
 
 We typically ask candidates to spend no more than 2 hours on these exercises to prepare for a technical panel evaluation.  
-For our engineering IC roles, you will typically prepare for said panel evaluation by picking:
+For our engineering IC roles, you will (unless otherwise specified) prepare for said panel evaluation by picking:
 
-* *Two* hiring exercises from the list given to you by your interview coordinator
+* **Two** hiring exercises from the list given to you by your interview coordinator
+
 OR
-* *One* hiring exercise from the list given to you by your interview coordinator
-* *one* demo of code that you previously worked on.
+
+* **One** hiring exercise from the list given to you by your interview coordinator
+* **One** demo of code that you previously worked on.
 
 Either path you choose in your own adventure is up to you as all options are weighted equally.
 
 The technical evaluations are meant to facilitate conversation to assess team fit, and technical and communication skills.
 
-## Conversational Assessment
+## Conversational assessment
 Here is an outline of questions or topics to expect during the panel evaluation:
 * What was the use case and scope of the project? What was implemented?
 * What was your process for reading through the exercise? 
@@ -46,11 +43,11 @@ Here is an outline of questions or topics to expect during the panel evaluation:
 * How did you use other software programming or data skills to do this work?
 * Any future work and considerations you’d like to highlight.
 
-## Sharing and Submitting
+## Sharing and submitting
 Feel free to share any slides, links or documentation to the work ahead of time by sending an email to the hiring manager or respective interviewer with your full name in the subject line.
 
 
-# FAQ About Exercises
+# :question: FAQ About exercises
 
 * **Can I use jQuery, React, Underscore, or other external libraries?** – Yes! You are free to use any tools, libraries, and frameworks you feel comfortable using.
 
