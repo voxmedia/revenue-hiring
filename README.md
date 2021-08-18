@@ -1,61 +1,61 @@
-_Are you interested at working with us at Vox Media Engineering? We are hiring, [take a look at our jobs](https://www.voxmedia.com/pages/careers-jobs#product-technology-design)._
+# :moneybag: Who we are
+Revenue Product is a group of product managers, project managers, engineers, designers, and data scientists that works closely with the Revenue organization as well as other PDT teams to build quality, trusted, and innovative solutions that monetize and fund Vox Media’s commitment to quality journalism, allowing for other publishers and brands to do the same across Vox Media’s networks.
 
-# Vox Media Programming Exercises
+_Want to join us at Vox Media Engineering? [We are hiring!](https://www.voxmedia.com/pages/careers-jobs#product-technology-design)_
 
-Hello and welcome, I promise this will not be painful. We are looking to understand your programming skills without sweat, live coding or intestinal distress.
+## What are the tech stack and key tools used by Revenue Product?
+* **Back End Technologies:** Rails (For applications), Python, Node.js + Express
+* **Front End Technologies:** React, Vanilla/ES6 JavaScript, HTML, CSS, YAML/JSON
+* **Data/Database/APIs:** MySQL, Postgres, GraphQL, TextRazor, BigQuery, MongoDB
+* **Authentication:** 
+Auth0
+* **Storage/Caching:** S3 and Fastly (files), GCP (data)
+* **Hosting/Processing/Ops:** Heroku, GCP, Resque, Redis, AWS Lambda, Google Cloud Run, Kubernetes, GitHub Actions, Terraform (data) 
+* **Other:** Amazon Elastic Video transcoder, Google Ad Manager
 
-We thought the best way to do this is have you **pick two** of the following ways to demonstrate your technical abilities with us.
+# :memo: How to prepare for your interview:
 
-Either:
+Hello, and thank you for your interest in Vox Media Engineering!
 
-* *Pick Two* hiring exercises from the list given to you by your interview coordinator
+If you are joining us as part of an interview process, please work with your interview coordinator to choose the relevant technical exercises for the technical evaluation component of the interview. 
+Otherwise, feel free to review any of the material here.
+
+We typically ask candidates to spend no more than 2 hours on these exercises to prepare for a technical panel evaluation.  
+For our engineering IC roles, you will (unless otherwise specified) prepare for said panel evaluation by picking:
+
+* **Two** hiring exercises from the list given to you by your interview coordinator
 
 OR
 
-* *Pick One* hiring exercise from the list given to you by your interview coordinator
-* **AND Code that you previously wrote**. This should be something where you can confidently talk about the technical and architectural aspects, and the use case for this project.
+* **One** hiring exercise from the list given to you by your interview coordinator
+* **One** demo of code that you previously worked on.
+
+Either path you choose in your own adventure is up to you as all options are weighted equally.
+
+The technical evaluations are meant to facilitate conversation to assess team fit, and technical and communication skills.
+
+## Conversational assessment
+Here is an outline of questions or topics to expect during the panel evaluation:
+* What was the use case and scope of the project? What was implemented?
+* What was your process for reading through the exercise? 
+* Why did you choose this approach? And what considerations were relevant in making this decision.
+* What errors and challenges did you run into?
+* How did you use other software programming or data skills to do this work?
+* Any future work and considerations you’d like to highlight.
+
+## Sharing and submitting
+Feel free to share any slides, links or documentation to the work ahead of time by sending an email to the hiring manager or respective interviewer with your full name in the subject line.
 
 
-All of these are weighted equally, we really want you to be as comfortable and confident as possible sharing your solutions with us.
+# :question: FAQ About exercises
 
-The sample exercises are scoped to an hour because we all have lives outside of work and away from the computer too.
+* **Can I use jQuery, React, Underscore, or other external libraries?** – Yes! You are free to use any tools, libraries, and frameworks you feel comfortable using.
 
-## Conversational Assessment
-
-Our goal here is to learn more about the thought process behind your work. You should write this code like you are part of our team. We are interested in the decisions you made, why you made them, and how you would explain these choices and the architecture so your team can understand it. We will be asking questions like the following:
-
-* What was the first thing you did after reading the exercises?
-* Why did you choose this approach?
-* Tell us more about this architecture?
-* What specific syntax decisions did you make?
-* Were there interesting optimizations you discovered?
-* What was the most difficult part of this exercise?
-* What did you do when you got stuck?
-* Did you learn anything new during this project?
-
-Additionally, pretend we work together:
-
-* What does your teammate need to know about it?
-* Did you structure it in a way that is understandable to others?
-* Is it sufficiently documented?
-* Given more time, what would you do next to improve the project that you didn't have time for here?
-
-## Sharing and Submitting
-
-During the technical call be prepared to share your screen with us in a readable (sufficiently large) font size.
-
-
-# FAQ About Exercises
-
-* **Can I use jQuery, React, Underscore, or other external libraries?** – You are free to use any tools, libraries, and frameworks you feel comfortable using.
-
-* **Who wrote this? I have so many questions** – If you are a Vox Media job applicant and you have questions please send them all to [revenue-hiring-questions@voxmedia.com](mailto://revenue-hiring-questions@voxmedia.com).
-
-* **Wait, you think my affiliate linking startup will be successful?** – Who knows, we are not analysts, investors nor lawyers.
+* **Who should I reach out to about this repo?** – We welcome all feedback, comments, questions, or concerns at [revenue-hiring-questions@voxmedia.com](mailto://revenue-hiring-questions@voxmedia.com).
 
 # License
 
-Copyright 2019 Vox Media
+Copyright 2021 Vox Media
 
 Licensed under the Apache License, Version 2.0 (the "License")
 you may not use this file except in compliance with the License.
