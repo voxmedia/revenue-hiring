@@ -38,37 +38,23 @@ Either path you choose in your own adventure is up to you as all options are wei
 The technical evaluations are meant to facilitate conversation to assess team fit, and technical and communication skills.
 
 ## Conversational Assessment
-
-Our goal here is to learn more about the thought process behind your work. You should write this code like you are part of our team. We are interested in the decisions you made, why you made them, and how you would explain these choices and the architecture so your team can understand it. We will be asking questions like the following:
-
-* What was the first thing you did after reading the exercises?
-* Why did you choose this approach?
-* Tell us more about this architecture?
-* What specific syntax decisions did you make?
-* Were there interesting optimizations you discovered?
-* What was the most difficult part of this exercise?
-* What did you do when you got stuck?
-* Did you learn anything new during this project?
-
-Additionally, pretend we work together:
-
-* What does your teammate need to know about it?
-* Did you structure it in a way that is understandable to others?
-* Is it sufficiently documented?
-* Given more time, what would you do next to improve the project that you didn't have time for here?
+Here is an outline of questions or topics to expect during the panel evaluation:
+* What was the use case and scope of the project? What was implemented?
+* What was your process for reading through the exercise? 
+* Why did you choose this approach? And what considerations were relevant in making this decision.
+* What errors and challenges did you run into?
+* How did you use other software programming or data skills to do this work?
+* Any future work and considerations you’d like to highlight.
 
 ## Sharing and Submitting
-
-During the technical call be prepared to share your screen with us in a readable (sufficiently large) font size.
+Feel free to share any slides, links or documentation to the work ahead of time by sending an email to the hiring manager or respective interviewer with your full name in the subject line.
 
 
 # FAQ About Exercises
 
-* **Can I use jQuery, React, Underscore, or other external libraries?** – You are free to use any tools, libraries, and frameworks you feel comfortable using.
+* **Can I use jQuery, React, Underscore, or other external libraries?** – Yes! You are free to use any tools, libraries, and frameworks you feel comfortable using.
 
-* **Who wrote this? I have so many questions** – If you are a Vox Media job applicant and you have questions please send them all to [revenue-hiring-questions@voxmedia.com](mailto://revenue-hiring-questions@voxmedia.com).
-
-* **Wait, you think my affiliate linking startup will be successful?** – Who knows, we are not analysts, investors nor lawyers.
+* **Who should I reach out to about this repo?** – We welcome all feedback, comments, questions, or concerns at [revenue-hiring-questions@voxmedia.com](mailto://revenue-hiring-questions@voxmedia.com).
 
 # License
 
