@@ -1,5 +1,5 @@
 # Choose Your Own Adventure
-Welcome to the adventure into the Data team at Vox Media. Our goal is to become a world-class data engineering team leading the way in developing production-ready and state-of-the-art data science solutions. We do this by providing Vox Media Stakeholders with democratized and integrated data solutions that help them gain clarity, insights, and scale with first-party data. 
+Welcome to the adventure into the Renvenue Data team at Vox Media. Our goal is to become a world-class data engineering team leading the way in developing production-ready and state-of-the-art data science solutions. We do this by providing Vox Media Stakeholders with democratized and integrated data solutions that help them gain clarity, insights, and scale with first-party data. 
 ## How To Prepare
 For the Data Engineer role, you will participate in a 45-minute technical panel interview with the Revenue Data team. Choose any ONE of the following prompts and come prepared to present and discuss. 
 
