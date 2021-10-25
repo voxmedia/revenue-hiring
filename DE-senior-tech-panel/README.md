@@ -26,9 +26,9 @@ This outline is by no means everything we may discuss. What's shared here closel
 
 ## A note on technical evaluations
 
-Candidates can also expect fun bite-sized questions. I like to call them money questions because it's the best kind of pancake topping (and would our team be called money cakes without the money? :pancakes:). 
+Candidates can also expect fun bite-sized questions. I like to call them money questions because they're meant to make candidates feel rich, like on trivia game shows. 
 
-### Example
+### Here's an example
 
 Candidate mentions Python and how they've worked with NumPy. 
 
